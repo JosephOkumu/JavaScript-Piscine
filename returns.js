@@ -3,5 +3,5 @@ function id(arg) {
 } 
 
 function getLength(input) {
-    return input.length
+    return input.length;
 }
